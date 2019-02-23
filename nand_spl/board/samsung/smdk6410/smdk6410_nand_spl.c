@@ -1,0 +1,1 @@
+/tftpboot/OK6410/u-boot-2012.10/board/samsung/smdk6410/smdk6410_nand_spl.c
